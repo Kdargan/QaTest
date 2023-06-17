@@ -40,6 +40,12 @@ public class DataConversion {
 		char C1;
 		C1 = (char) S1;
 		System.out.println(C1);
+// Short to Integer - Small to Big
+		short RT =10;
+		int NT;
+		NT = RT;
+		System.out.println(RT);
+		System.out.println(NT);
 // Primitive to Non primitive data conversion - Int to String
 		int Y1 = 45684;
 		String ST;
@@ -87,6 +93,12 @@ public class DataConversion {
 		BOO1= Boolean.parseBoolean(STR1);
 		System.out.println(BOO1);
 		System.out.println(STR1);
+// Char to Integer
+		char HA = '10';
+		int RW;
+		RW = HA;
+		System.out.println(HA);
+		System.out.println(RW);
 		
 		
 		
