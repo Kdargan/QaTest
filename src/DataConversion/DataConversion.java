@@ -94,7 +94,7 @@ public class DataConversion {
 		System.out.println(BOO1);
 		System.out.println(STR1);
 // Char to Integer
-		char HA = '10';
+		char HA = '0';
 		int RW;
 		RW = HA;
 		System.out.println(HA);
